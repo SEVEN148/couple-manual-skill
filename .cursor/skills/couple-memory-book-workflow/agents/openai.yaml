@@ -1,0 +1,4 @@
+interface:
+  display_name: "Couple Memory Book Workflow"
+  short_description: "Build and evolve illustrated couple memory books"
+  default_prompt: "Use $couple-memory-book-workflow to turn relationship memories and reference images into a consistent multi-page illustrated book."
