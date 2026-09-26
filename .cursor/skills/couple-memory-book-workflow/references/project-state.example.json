@@ -1,0 +1,26 @@
+{
+  "schema_version": "1.0",
+  "project": {
+    "title": "Example memory book",
+    "subtitle": "A story told in pages",
+    "status": "planned",
+    "updated_at": "2026-09-26T00:00:00+08:00"
+  },
+  "sources": [
+    {"path": "materials/story.md", "kind": "facts", "status": "read"}
+  ],
+  "consent": {
+    "photo_upload": "needs_confirmation",
+    "destinations": [],
+    "files": []
+  },
+  "story_facts": [],
+  "open_questions": [],
+  "page_plan": [],
+  "style_variants": [],
+  "accepted_baseline": null,
+  "runs": [],
+  "outputs": [],
+  "qa": {"status": "not_run", "checks": []},
+  "next_actions": ["collect the story and authorized references"]
+}
